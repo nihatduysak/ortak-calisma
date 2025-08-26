@@ -3,18 +3,19 @@ PR (pull request) konusunu test edeceğiz.
 Nihat branch'inden bir güncelleme
 fork ile projeyi kendi repoma çekip buradan güncelleme yapacağım
 
-
 bir şeyler bir şeyler
 
 kafam karıştı
 
-fork ile projeyi kendi repoma çekip buradan güncelleme yapacağımBug�n Levent bu dosyada de�i�iklik yapt�.
-Bug�n Levent bu dosyada de�i�iklik yapt�.
-
 fork ile projeyi kendi repoma çekip buradan güncelleme yapacağım
+Bugün Levent bu dosyada değişiklik yaptı.
+
 
 Yav sen yanlis yapmadın soru yanlısmıs yavvv / mako
 Eeee Biz boşuna mı burdayız Babayiğit.Yalnizca oluler gorur /  Misirxan..
+
+Ömer KULUÇ
+Yav sen yanlis yapmadın soru yanlısmıs yavvv / mako
 
 Gökyüzü serer umutla mavi,
 Rüzgar dokunur kalbime hafifçe.
@@ -25,9 +26,6 @@ Gözlerimde biriken gün ışığı,
 Yüreğimde dalgalanan sessiz deniz.
 Her adımda yeniden doğar hayat,
 Umuda açılır gizli bir kapı.
-
-Ömer KULUÇ
-Yav sen yanlis yapmadın soru yanlısmıs yavvv / mako
 
 Bakışların yüreğimde
 Açtı yara ceylan gözlüm
