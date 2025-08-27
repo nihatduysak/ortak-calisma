@@ -72,3 +72,5 @@ PR (pull request) konusu test edilecek
 Bir yazılımcının 1 ayda yaptığını, iki yazılımcı 2 ayda yapar.
 
 Lorem ipsum dolor sit
+
+Yeni yazı ekliyorum.
